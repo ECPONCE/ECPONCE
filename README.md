@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello out there 👋✨
+
+💻🌱 I am getting started and jumping into github with anticipation. I am persuing a Cyber Security Associates for an associates degree and I know I will have a long way to go.
+
+🤔 What brings you here?
 
 <!--
 **ECPONCE/ECPONCE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
